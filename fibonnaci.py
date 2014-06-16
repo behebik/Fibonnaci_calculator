@@ -24,3 +24,5 @@ def findme(limit):
             #else:
             #    break
             break
+            
+findme(d_count)
